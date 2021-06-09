@@ -1,0 +1,26 @@
+﻿body {
+    background-image: url("https://images7.alphacoders.com/362/362619.jpg");
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-size: cover;
+    color: #2c3e50;
+}
+
+.layout {
+    margin: 0 auto;
+    border: 3px solid;
+    width: 80%;
+    background-color: #ecf0f1;
+}
+
+#shape {
+    border-radius: 15px;
+}
+
+h1 {
+    font-weight: 800;
+}
+
+#welcome {
+    color: white;
+}

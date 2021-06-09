@@ -1,0 +1,36 @@
+﻿body {
+    margin-top: 30px;
+    background-image: url("https://images7.alphacoders.com/362/362619.jpg");
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+#form {
+    background-color: #e5e5e5;
+    min-height: 500px;
+    padding: 5px 40px 40px 40px;
+    border-radius: 25px;
+    margin-top: 0px;
+}
+
+.reg {
+    font-size: 55px;
+    font-family: Agency FB;
+    font-weight: 700;
+    border-bottom-style: ridge;
+}
+
+.input-text {
+    height: 50px;
+}
+
+label {
+    font-size: 18px;
+}
+
+.btn-primary {
+    border-radius: 0px;
+    padding: 10px;
+    width: 100%;
+}

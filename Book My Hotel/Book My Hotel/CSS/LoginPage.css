@@ -1,0 +1,136 @@
+﻿input[type="text"],
+input[type="password"],
+textarea,
+textarea.form-control {
+    height: 50px;
+    margin: 0;
+    padding: 0 20px;
+    vertical-align: middle;
+    border: 3px solid #ddd;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 50px;
+    color: #888;
+    border-radius: 4px;
+    box-shadow: none;
+    transition: all .3s;
+}
+
+button.btn {
+    height: 50px;
+    margin: 0;
+    padding: 0 20px;
+    vertical-align: middle;
+    background: #4aaf51;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 50px;
+    color: #fff;
+    border-radius: 4px;
+    text-shadow: none;
+    box-shadow: none;
+    transition: all .3s;
+}
+
+.btn-success {
+    outline: 0;
+    box-shadow: none;
+    width: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #888;
+    line-height: 30px;
+    text-align: center;
+    background-image: url("https://images7.alphacoders.com/362/362619.jpg");
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+strong {
+    font-weight: 500;
+}
+
+#content {
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.4), 0px 18px 23px rgba(0,0,0,0.4);
+}
+
+h1, h2 {
+    margin-top: 10px;
+    font-size: 55px;
+    font-weight: 100;
+    color: #555;
+    line-height: 50px;
+}
+
+
+.inner-bg {
+    padding: 30px 0 170px 0;
+}
+
+.top-content .text h1 {
+    color: #fff;
+}
+
+
+.form-box {
+    margin-top: 35px;
+}
+
+.vertical {
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+#horizontal-top {
+    border-top: 3px solid black;
+}
+
+#horizontal-bottom {
+    border-bottom: 3px solid black;
+}
+
+.form-top {
+    overflow: hidden;
+    padding: 0 25px 15px 25px;
+    background: #fff;
+    border-radius: 15px 15px 0 0;
+    text-align: left;
+}
+
+.form-top-left {
+    float: left;
+    width: 75%;
+    padding-top: 25px;
+}
+
+    .form-top-left h3 {
+        margin-top: 0;
+    }
+
+.form-top-right {
+    float: left;
+    width: 25%;
+    padding-top: 5px;
+    font-size: 66px;
+    color: #aaa;
+    line-height: 100px;
+    text-align: right;
+}
+
+.form-bottom {
+    padding: 25px 25px 30px 25px;
+    background: #eee;
+    border-radius: 0 0 15px 15px;
+    text-align: left;
+}
+
+    .form-bottom form textarea {
+        height: 100px;
+    }

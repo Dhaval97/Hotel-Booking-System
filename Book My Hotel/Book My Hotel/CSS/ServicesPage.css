@@ -1,0 +1,26 @@
+﻿body {
+    background: linear-gradient(to left, #3a6186, #89253e);
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+#container {
+    margin: 0 auto;
+    color: white;
+}
+
+#about-us {
+    display: block;
+    width: 100%;
+    line-height: 1.6em;
+}
+
+    #about-us h3 {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    #about-us #about-intro {
+        margin-bottom: 50px;
+    }

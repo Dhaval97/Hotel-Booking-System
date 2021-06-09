@@ -1,0 +1,83 @@
+﻿body {
+	background-image: url("https://images7.alphacoders.com/362/362619.jpg");
+	background-repeat: repeat-x;
+	background-repeat: repeat-y;
+	background-size: cover;
+	color: #2c3e50;
+}
+
+.layout {
+	margin: 0 auto;
+	border: 3px solid;
+	width: 80%;
+	background-color: #ecf0f1;
+}
+
+.content {
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.1), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.jumbotron {
+	padding-top: 10px;
+	background-color: #ecf0f1;
+	border: 3px solid;
+	height: 190px;
+}
+
+#shape {
+	border-radius: 15px;
+}
+
+h1 {
+	font-weight: 800;
+}
+
+#welcome {
+	color: white;
+}
+
+.panel-title {
+	display: inline;
+	font-weight: bold;
+}
+
+.checkbox.pull-right {
+	margin: 0;
+}
+
+.expiry {
+	padding-left: 0px;
+	top: 0px;
+	left: 0px;
+}
+
+.auto-style1 {
+	width: 142px;
+}
+
+.auto-style4 {
+	width: 142px;
+	height: 26px;
+}
+
+.auto-style5 {
+	height: 26px;
+}
+
+.auto-style6 {
+	width: 142px;
+	height: 30px;
+}
+
+.auto-style7 {
+	height: 30px;
+}
+
+.auto-style8 {
+	width: 142px;
+	height: 31px;
+}
+
+.auto-style9 {
+	height: 31px;
+}
